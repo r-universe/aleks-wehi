@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/aleks-wehi/aleks-wehi.r-universe.dev
 	branch = HEAD
+[submodule "PlotTrellis"]
+	path = PlotTrellis
+	url = https://github.com/aleks-wehi/PlotTrellis
