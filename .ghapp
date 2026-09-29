@@ -1,0 +1,10 @@
+{
+  "id": 166003499,
+  "created_at": "2026-09-29T02:56:45.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["PlotTrellis", "aleks-wehi.r-universe.dev"]
+}
